@@ -1,5 +1,5 @@
 # Ejercicio 1
 Capacitación: Git, bash y docker
 Integrantes:
-- [Alfredo Uscapi]
+- [Alfredo Uscapi] Scrum master
 - [Adriana Azuaje]
